@@ -39,6 +39,13 @@ com.husy.design.pattern
 
 
 
+# 设计模式详解
+
+* [**设计模式之简介**](https://github.com/HusyCoding/JNotes/blob/master/Design/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%AE%80%E4%BB%8B.md)
+* [**设计模式（1）工厂模式**](https://github.com/HusyCoding/JNotes/blob/master/Design/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%881%EF%BC%89%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
+
+
+
 # 资料参考
 
 *   [设计模式 | 菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
